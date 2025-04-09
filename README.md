@@ -1,1 +1,0 @@
-# Customer-segmentaiton-K-means
